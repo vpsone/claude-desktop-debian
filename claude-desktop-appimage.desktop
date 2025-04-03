@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Claude (AppImage)
+Comment=Claude Desktop (AppImage Version 0.9.1)
+Exec=/workspaces/claude-desktop-debian/claude-desktop-0.9.1-amd64.AppImage %u
+Icon=claude-desktop
+Type=Application
+Terminal=false
+Categories=Office;Utility;Network;
+MimeType=x-scheme-handler/claude;
+StartupWMClass=Claude
+X-AppImage-Version=0.9.1
+X-AppImage-Name=Claude Desktop (AppImage)
